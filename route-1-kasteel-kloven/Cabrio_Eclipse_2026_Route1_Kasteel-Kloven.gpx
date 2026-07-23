@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cabrio Eclipse Tour 2026 - Route 1" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Cabrio Eclipse 2026 - Route 1 - Kasteel- en Klovenroute</name>
+    <desc>Benitatchell - Alcala del Jucar - Alarcon - Cuenca - Alto Tajo (eclips 12-08-2026) - Siguenza - Medinaceli - Chinchon - Aranjuez - Benitatchell. Binnenwegen, geen snelwegen. Voor Garmin Zumo XT: zet toestel op 'vermijd snelwegen/tolwegen'.</desc>
+  </metadata>
+
+  <!-- ============ WAYPOINTS (bezienswaardigheden, hotels, eclips) ============ -->
+  <wpt lat="38.7340" lon="0.1690"><name>START/EIND Benitatchell</name><sym>Residence</sym><desc>Vertrek 11 aug, terugkomst 13 aug</desc></wpt>
+  <wpt lat="39.1889" lon="-1.4306"><name>Alcala del Jucar</name><sym>Scenic Area</sym><desc>Kloofdorp, Moors kasteel, lunchstop dag 1</desc></wpt>
+  <wpt lat="39.5560" lon="-2.0850"><name>Parador de Alarcon (NACHT 1)</name><sym>Lodging</sym><desc>8e-eeuws kasteel-fort boven de Jucar-kloof. Diner in Parador.</desc></wpt>
+  <wpt lat="40.0775" lon="-2.1289"><name>Cuenca - Casas Colgadas</name><sym>Scenic Area</sym><desc>Hangende Huizen boven het ravijn. Ochtend dag 2.</desc></wpt>
+  <wpt lat="40.1783" lon="-1.9958"><name>Ciudad Encantada</name><sym>Scenic Area</sym><desc>Surrealistische rotsformaties in het dennenbos.</desc></wpt>
+  <wpt lat="40.4650" lon="-1.8840"><name>Nacimiento del Rio Cuervo</name><sym>Waterfall</sym><desc>Watervallen / bron van de rivier de Cuervo.</desc></wpt>
+  <wpt lat="40.7286" lon="-2.1889"><name>ECLIPS - Mirador del Tajo (Zaorejas)</name><sym>Summit</sym><desc>12 aug ca. 20:30u. Totaliteit ca. 1m42s. Zon slechts 7-8 graden hoog: KIES een open plek met vrij zicht naar het WESTEN.</desc></wpt>
+  <wpt lat="41.0736" lon="-2.0797"><name>ECLIPS alt. - Villel de Mesa</name><sym>Summit</sym><desc>Alternatief kijkpunt: open hoogvlakte, weinig lichtvervuiling, vrij westhorizon.</desc></wpt>
+  <wpt lat="40.8433" lon="-1.8858"><name>Molina de Aragon</name><sym>City (Small)</sym><desc>Info-hub Alto Tajo eclips; middeleeuws stadje + kasteel.</desc></wpt>
+  <wpt lat="41.0700" lon="-2.6386"><name>Parador de Siguenza (NACHT 2)</name><sym>Lodging</sym><desc>12e-eeuws Arabisch kasteel. In totaliteitszone. VROEG BOEKEN.</desc></wpt>
+  <wpt lat="41.1075" lon="-2.5892"><name>Molino de Alcuneza (NACHT 2 alt.)</name><sym>Lodging</sym><desc>Relais and Chateaux, 15e-eeuwse molen + spa. 1 Michelin-ster restaurant.</desc></wpt>
+  <wpt lat="41.1750" lon="-2.4350"><name>Medinaceli - Arco Romano</name><sym>Museum</sym><desc>Enige 3-poortige Romeinse triomfboog van Spanje. Ochtend dag 3.</desc></wpt>
+  <wpt lat="40.1394" lon="-3.4222"><name>Chinchon - Plaza Mayor</name><sym>Restaurant</sym><desc>Ronde middeleeuwse plein. Lunch: gegrild zuiglam.</desc></wpt>
+  <wpt lat="40.0378" lon="-3.6089"><name>Aranjuez - Palacio Real</name><sym>Museum</sym><desc>Koninklijk paleis + tuinen aan de Taag. Middag dag 3.</desc></wpt>
+
+  <!-- ============ DAG 1 (11 aug): Benitatchell -> Alarcon ============ -->
+  <rte>
+    <name>Dag 1 (11 aug) Benitatchell - Alcala del Jucar - Alarcon</name>
+    <desc>Binnenwegen ca. 3,5 u excl. stops. Zet Zumo op vermijd snelwegen/tol.</desc>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+    <rtept lat="38.6987" lon="-0.4734"><name>Alcoy (via bergweg)</name></rtept>
+    <rtept lat="38.6370" lon="-0.8659"><name>Villena</name></rtept>
+    <rtept lat="38.8686" lon="-1.0972"><name>Almansa</name></rtept>
+    <rtept lat="38.9756" lon="-1.2136"><name>Alpera</name></rtept>
+    <rtept lat="39.1889" lon="-1.4306"><name>Alcala del Jucar</name></rtept>
+    <rtept lat="39.2731" lon="-1.4686"><name>Casas Ibanez</name></rtept>
+    <rtept lat="39.5667" lon="-1.8917"><name>Motilla del Palancar</name></rtept>
+    <rtept lat="39.5560" lon="-2.0850"><name>Parador de Alarcon</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 2 (12 aug): Alarcon -> Cuenca -> Alto Tajo eclips -> Siguenza ============ -->
+  <rte>
+    <name>Dag 2 (12 aug) Alarcon - Cuenca - Alto Tajo (ECLIPS) - Siguenza</name>
+    <desc>Prachtige natuurwegen ca. 4,5 u excl. stops. Wees voor 19:30 op het kijkpunt.</desc>
+    <rtept lat="39.5560" lon="-2.0850"><name>Alarcon</name></rtept>
+    <rtept lat="39.7500" lon="-2.1400"><name>Valverde de Jucar (binnenweg)</name></rtept>
+    <rtept lat="40.0775" lon="-2.1289"><name>Cuenca - Casas Colgadas</name></rtept>
+    <rtept lat="40.1783" lon="-1.9958"><name>Ciudad Encantada</name></rtept>
+    <rtept lat="40.4650" lon="-1.8840"><name>Nacimiento del Rio Cuervo</name></rtept>
+    <rtept lat="40.5556" lon="-2.0797"><name>Beteta (bergweg)</name></rtept>
+    <rtept lat="40.7286" lon="-2.1889"><name>ECLIPS Mirador del Tajo (Zaorejas)</name></rtept>
+    <rtept lat="40.8433" lon="-1.8858"><name>Molina de Aragon</name></rtept>
+    <rtept lat="41.0333" lon="-2.2000"><name>Maranchon (binnenweg CM-110)</name></rtept>
+    <rtept lat="41.0700" lon="-2.6386"><name>Parador de Siguenza</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 3 (13 aug): Siguenza -> Medinaceli -> Chinchon -> Aranjuez -> Benitatchell ============ -->
+  <rte>
+    <name>Dag 3 (13 aug) Siguenza - Medinaceli - Chinchon - Aranjuez - Benitatchell</name>
+    <desc>LANGE DAG ca. 7-8 u binnenwegen. Vertrek vroeg. Eventueel Aranjuez inkorten.</desc>
+    <rtept lat="41.0700" lon="-2.6386"><name>Siguenza</name></rtept>
+    <rtept lat="41.1750" lon="-2.4350"><name>Medinaceli - Arco Romano</name></rtept>
+    <rtept lat="40.8261" lon="-2.6167"><name>Cifuentes (binnenweg)</name></rtept>
+    <rtept lat="40.4106" lon="-2.9236"><name>Pastrana</name></rtept>
+    <rtept lat="40.2333" lon="-3.1667"><name>Fuentiduena de Tajo</name></rtept>
+    <rtept lat="40.1394" lon="-3.4222"><name>Chinchon - Plaza Mayor</name></rtept>
+    <rtept lat="40.0378" lon="-3.6089"><name>Aranjuez - Palacio Real</name></rtept>
+    <rtept lat="39.9667" lon="-3.2000"><name>Ocana (binnenweg)</name></rtept>
+    <rtept lat="39.5667" lon="-1.8917"><name>Motilla del Palancar</name></rtept>
+    <rtept lat="38.8686" lon="-1.0972"><name>Almansa</name></rtept>
+    <rtept lat="38.6370" lon="-0.8659"><name>Villena</name></rtept>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+  </rte>
+</gpx>

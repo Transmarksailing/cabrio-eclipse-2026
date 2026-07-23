@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cabrio Eclipse Tour 2026 - Route 2" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Cabrio Eclipse 2026 - Route 2 - Maestrazgo en Matarrana</name>
+    <desc>Benitatchell - Sagunto - Morella - Matarrana (Valderrobres/Beceite) - La Mata de Morella (eclips 12-08-2026) - Requena - Benitatchell. Dichter bij huis, minder rijden. Binnenwegen, geen snelwegen.</desc>
+  </metadata>
+
+  <!-- ============ WAYPOINTS ============ -->
+  <wpt lat="38.7340" lon="0.1690"><name>START/EIND Benitatchell</name><sym>Residence</sym><desc>Vertrek 11 aug, terugkomst 13 aug</desc></wpt>
+  <wpt lat="39.6795" lon="-0.2779"><name>Sagunto - Teatro Romano en Castillo</name><sym>Museum</sym><desc>Romeins theater + kasteel op de heuvel. Ochtend dag 1.</desc></wpt>
+  <wpt lat="40.6178" lon="-0.0958"><name>Morella - Hotel Cardenal Ram (NACHT 1)</name><sym>Lodging</sym><desc>Ommuurde bergstad met gigantisch kasteel. 16e-eeuws paleis-hotel.</desc></wpt>
+  <wpt lat="40.6174" lon="-0.2788"><name>ECLIPS - La Mata de Morella</name><sym>Summit</sym><desc>12 aug ca. 20:31u. Totaliteit ca. 1m40s. Zon slechts 5,4 graden hoog: absoluut vrij zicht naar het WESTEN nodig (839 m, open plateau).</desc></wpt>
+  <wpt lat="40.8736" lon="0.1544"><name>Valderrobres - Castillo</name><sym>Scenic Area</sym><desc>Sprookjesdorp met gotisch kasteel en stenen brug. Matarrana.</desc></wpt>
+  <wpt lat="40.7920" lon="0.1950"><name>Parrizal de Beceite</name><sym>Waterfall</sym><desc>Rivierkloof met houten looppaden boven helder water. Korte wandeling.</desc></wpt>
+  <wpt lat="40.7480" lon="-0.0100"><name>Torre del Marques / Monroyo (NACHT 2)</name><sym>Lodging</sym><desc>5-sterren boutique wijndomein-hotel. In totaliteitszone.</desc></wpt>
+  <wpt lat="40.7906" lon="-0.0203"><name>Hotel Consolacion (NACHT 2 alt.)</name><sym>Lodging</sym><desc>Design-hotel met 'cubes' met uitzicht over de vallei, Monroyo.</desc></wpt>
+  <wpt lat="39.4883" lon="-1.1004"><name>Requena - wijnstreek</name><sym>Restaurant</sym><desc>Wijnstreek Requena-Utiel. Lunch/wijnstop dag 3.</desc></wpt>
+
+  <!-- ============ DAG 1 (11 aug): Benitatchell -> Sagunto -> Morella ============ -->
+  <rte>
+    <name>Dag 1 (11 aug) Benitatchell - Sagunto - Morella</name>
+    <desc>Binnenwegen ca. 3,5 u excl. stops. Bergweg A-225 richting Morella.</desc>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+    <rtept lat="38.9691" lon="-0.1817"><name>Gandia (kustweg)</name></rtept>
+    <rtept lat="39.6795" lon="-0.2779"><name>Sagunto</name></rtept>
+    <rtept lat="40.0333" lon="-0.0333"><name>Vilafames (binnenland)</name></rtept>
+    <rtept lat="40.3000" lon="0.0500"><name>Albocasser</name></rtept>
+    <rtept lat="40.4592" lon="0.1728"><name>Sant Mateu</name></rtept>
+    <rtept lat="40.6178" lon="-0.0958"><name>Morella</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 2 (12 aug): Morella -> Matarrana -> La Mata (ECLIPS) -> Monroyo ============ -->
+  <rte>
+    <name>Dag 2 (12 aug) Morella - Valderrobres - Beceite - ECLIPS - Monroyo</name>
+    <desc>Stuurplezier langs bergen en olijfgaarden ca. 2,5 u excl. stops. Voor 19:30 op kijkpunt.</desc>
+    <rtept lat="40.6178" lon="-0.0958"><name>Morella</name></rtept>
+    <rtept lat="40.8736" lon="0.1544"><name>Valderrobres - Castillo</name></rtept>
+    <rtept lat="40.7920" lon="0.1950"><name>Parrizal de Beceite</name></rtept>
+    <rtept lat="40.7300" lon="0.0500"><name>Rafales (binnenweg)</name></rtept>
+    <rtept lat="40.6174" lon="-0.2788"><name>ECLIPS La Mata de Morella</name></rtept>
+    <rtept lat="40.7480" lon="-0.0100"><name>Torre del Marques / Monroyo</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 3 (13 aug): Monroyo -> Maestrazgo -> Requena -> Benitatchell ============ -->
+  <rte>
+    <name>Dag 3 (13 aug) Monroyo - Maestrazgo - Requena - Benitatchell</name>
+    <desc>Ruige binnenwegen ca. 4 u excl. stops. Wijnstop Requena.</desc>
+    <rtept lat="40.7480" lon="-0.0100"><name>Monroyo</name></rtept>
+    <rtept lat="40.5333" lon="-0.3167"><name>Cantavieja (Maestrazgo-pas)</name></rtept>
+    <rtept lat="40.3667" lon="-0.4167"><name>Villarluengo</name></rtept>
+    <rtept lat="40.1000" lon="-0.7167"><name>Mora de Rubielos</name></rtept>
+    <rtept lat="39.8000" lon="-0.8000"><name>Montanejos (bergweg)</name></rtept>
+    <rtept lat="39.4883" lon="-1.1004"><name>Requena - wijnstreek</name></rtept>
+    <rtept lat="39.0667" lon="-0.6500"><name>Xativa (binnenweg)</name></rtept>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+  </rte>
+</gpx>
