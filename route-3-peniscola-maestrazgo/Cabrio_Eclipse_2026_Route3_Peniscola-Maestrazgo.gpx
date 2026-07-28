@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cabrio Eclipse Tour 2026 - Route 3" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Cabrio Eclipse 2026 - Route 3 - Peniscola en Maestrazgo</name>
+    <desc>Benitatchell - Sagunto - Peniscola (NACHT 1) - Sant Mateu - Morella - Matarrana (Valderrobres/Beceite) - La Mata de Morella (eclips 12-08-2026) - Monroyo - Requena - Benitatchell. Kust en bergen. Binnenwegen en kustwegen, geen snelwegen.</desc>
+  </metadata>
+
+  <!-- ============ WAYPOINTS ============ -->
+  <wpt lat="38.7340" lon="0.1690"><name>START/EIND Benitatchell</name><sym>Residence</sym><desc>Vertrek 11 aug, terugkomst 13 aug</desc></wpt>
+  <wpt lat="39.6795" lon="-0.2779"><name>Sagunto - Teatro Romano en Castillo</name><sym>Museum</sym><desc>Romeins theater + kasteel op de heuvel. Ochtend dag 1.</desc></wpt>
+  <wpt lat="40.2450" lon="0.3550"><name>Serra d'Irta (optionele kuststop)</name><sym>Scenic Area</sym><desc>Natuurpark met bochtige kustwegen bij Alcossebre, net voor Peniscola.</desc></wpt>
+  <wpt lat="40.3592" lon="0.4080"><name>Peniscola - Casco Antiguo en Castillo (NACHT 1)</name><sym>Lodging</sym><desc>Ommuurde zeevesting op een rots. Kasteel van Papa Luna. Filmlocatie Game of Thrones (Meereen) en El Cid.</desc></wpt>
+  <wpt lat="40.4592" lon="0.1728"><name>Sant Mateu (doorrijstop dag 2)</name><sym>Scenic Area</sym><desc>Historische oude hoofdstad van de Maestrat, arcadeplein.</desc></wpt>
+  <wpt lat="40.6178" lon="-0.0958"><name>Morella - Castillo (stop dag 2)</name><sym>Scenic Area</sym><desc>Ommuurde bergstad met gigantisch kasteel. Klim via A-225.</desc></wpt>
+  <wpt lat="40.6174" lon="-0.2788"><name>ECLIPS - La Mata de Morella</name><sym>Summit</sym><desc>12 aug ca. 20:31u. Totaliteit ca. 1m40s. Zon slechts 5,4 graden hoog: absoluut vrij zicht naar het WESTEN nodig (839 m, open plateau).</desc></wpt>
+  <wpt lat="40.8736" lon="0.1544"><name>Valderrobres - Castillo (optioneel)</name><sym>Scenic Area</sym><desc>Sprookjesdorp met gotisch kasteel en stenen brug. Matarrana. Overslaan bij krappe tijd.</desc></wpt>
+  <wpt lat="40.7920" lon="0.1950"><name>Parrizal de Beceite (optioneel)</name><sym>Waterfall</sym><desc>Rivierkloof met houten looppaden boven helder water. Korte wandeling.</desc></wpt>
+  <wpt lat="40.7480" lon="-0.0100"><name>Torre del Marques / Monroyo (NACHT 2)</name><sym>Lodging</sym><desc>5-sterren boutique wijndomein-hotel. In totaliteitszone.</desc></wpt>
+  <wpt lat="40.7906" lon="-0.0203"><name>Hotel Consolacion (NACHT 2 alt.)</name><sym>Lodging</sym><desc>Design-hotel met 'cubes' met uitzicht over de vallei, Monroyo.</desc></wpt>
+  <wpt lat="39.4883" lon="-1.1004"><name>Requena - wijnstreek</name><sym>Restaurant</sym><desc>Wijnstreek Requena-Utiel. Lunch/wijnstop dag 3.</desc></wpt>
+
+  <!-- ============ DAG 1 (11 aug): Benitatchell -> Sagunto -> Peniscola ============ -->
+  <rte>
+    <name>Dag 1 (11 aug) Benitatchell - Sagunto - Peniscola</name>
+    <desc>Kust- en binnenwegen ca. 3 u excl. stops. Costa del Azahar richting Peniscola.</desc>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+    <rtept lat="38.9691" lon="-0.1817"><name>Gandia (kustweg)</name></rtept>
+    <rtept lat="39.6795" lon="-0.2779"><name>Sagunto</name></rtept>
+    <rtept lat="39.9860" lon="-0.0513"><name>Castellon (kustweg)</name></rtept>
+    <rtept lat="40.0333" lon="0.0640"><name>Oropesa del Mar</name></rtept>
+    <rtept lat="40.2450" lon="0.3550"><name>Serra d'Irta / Alcossebre</name></rtept>
+    <rtept lat="40.3592" lon="0.4080"><name>Peniscola</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 2 (12 aug): Peniscola -> Sant Mateu -> Morella -> Matarrana -> La Mata (ECLIPS) -> Monroyo ============ -->
+  <rte>
+    <name>Dag 2 (12 aug) Peniscola - Morella - ECLIPS - Monroyo</name>
+    <desc>Van de kust de bergen in ca. 3,5 u excl. stops. Voor 19:30 op kijkpunt. Valderrobres/Beceite optioneel bij tijd.</desc>
+    <rtept lat="40.3592" lon="0.4080"><name>Peniscola</name></rtept>
+    <rtept lat="40.4592" lon="0.1728"><name>Sant Mateu</name></rtept>
+    <rtept lat="40.6178" lon="-0.0958"><name>Morella</name></rtept>
+    <rtept lat="40.8736" lon="0.1544"><name>Valderrobres - Castillo (optioneel)</name></rtept>
+    <rtept lat="40.7920" lon="0.1950"><name>Parrizal de Beceite (optioneel)</name></rtept>
+    <rtept lat="40.7300" lon="0.0500"><name>Rafales (binnenweg)</name></rtept>
+    <rtept lat="40.6174" lon="-0.2788"><name>ECLIPS La Mata de Morella</name></rtept>
+    <rtept lat="40.7480" lon="-0.0100"><name>Torre del Marques / Monroyo</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 3 (13 aug): Monroyo -> Maestrazgo -> Requena -> Benitatchell ============ -->
+  <rte>
+    <name>Dag 3 (13 aug) Monroyo - Maestrazgo - Requena - Benitatchell</name>
+    <desc>Ruige binnenwegen ca. 4 u excl. stops. Wijnstop Requena.</desc>
+    <rtept lat="40.7480" lon="-0.0100"><name>Monroyo</name></rtept>
+    <rtept lat="40.5333" lon="-0.3167"><name>Cantavieja (Maestrazgo-pas)</name></rtept>
+    <rtept lat="40.3667" lon="-0.4167"><name>Villarluengo</name></rtept>
+    <rtept lat="40.1000" lon="-0.7167"><name>Mora de Rubielos</name></rtept>
+    <rtept lat="39.8000" lon="-0.8000"><name>Montanejos (bergweg)</name></rtept>
+    <rtept lat="39.4883" lon="-1.1004"><name>Requena - wijnstreek</name></rtept>
+    <rtept lat="39.0667" lon="-0.6500"><name>Xativa (binnenweg)</name></rtept>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+  </rte>
+</gpx>
