@@ -1,8 +1,10 @@
 # 🚗☀️🌑 Cabrio Eclips-Tour 2026
 
-Drie uitgewerkte cabrio-rondritten naar de **totale zonsverduistering van 12 augustus 2026** in Spanje. Voor **2 stelletjes (4 personen), 2 cabrio's, 2 nachten**: vertrek **dinsdag 11 augustus**, terug **donderdag 13 augustus**. Lekker eten, mooi slapen, en de eclips van de eeuw — over **binnenwegen** (geen snelwegen), met **GPX-bestanden voor de Garmin Zümo XT**.
+Vier uitgewerkte cabrio-rondritten naar de **totale zonsverduistering van 12 augustus 2026** in Spanje. Voor **2 stelletjes (4 personen), 2 cabrio's, 2 nachten**: vertrek **dinsdag 11 augustus**, terug **donderdag 13 augustus**. Lekker eten, mooi slapen, en de eclips van de eeuw — over **binnenwegen** (geen snelwegen), met **GPX-bestanden voor de Garmin Zümo XT**.
 
-> De groep kiest **één** van de drie routes. Alle drie eindigen op woensdagavond 12 aug op een kijkpunt dat **vol in de totaliteitszone** ligt.
+> ✅ **GEBOEKT — Route 4 is de definitieve route.** Omdat vrijwel alle hotels vol zaten, is er **2 nachten (11 + 12 aug)** vastgelegd in **Hotel & Spa Balfagón (Cantavieja)**. Vandaar dagtochten; het eclips-kijkpunt (Mirador de la Tarayuela, 1.664 m) ligt op **5,5 km** van het hotel. → [**Route 4 — deelnemersdocument**](route-4-balfagon-basiskamp/ROUTE-4-Balfagon-Basiskamp.md)
+>
+> Routes 1–3 blijven als uitgewerkte alternatieven bewaard. Alle vier eindigen op woensdagavond 12 aug op een kijkpunt dat **vol in de totaliteitszone** ligt.
 
 ---
 
@@ -12,7 +14,24 @@ Op 12 augustus 2026 trekt de **eerste totale zonsverduistering over het Spaanse 
 
 ---
 
-## 🗺️ De drie routes vergeleken
+## 🗺️ De routes vergeleken
+
+### ✅ Route 4 — Maestrazgo Basiskamp *(GEBOEKT)*
+
+| | |
+|---|---|
+| **Sfeer** | Vaste basis in een spa-hotel; wijn, bergpassen, eclips op de doorstep |
+| **Basis** | Hotel & Spa Balfagón, Cantavieja — **2 nachten (11 + 12 aug)** |
+| **Eclips-kijkpunt** | Mirador de la Tarayuela (**1.664 m**, 5,5 km van hotel) |
+| **Lunches** | Di: creatief (Daluan, Morella) · Wo: **wijn-bodega** (La Grancha, Matarraña) · Do: Italiaans (Il Ponticello, Mora de Rubielos) |
+| **Afstand** | ± 600 km · **weinig rijden**, meeste dagen kort |
+| **Indicatie per stelletje** | ± € 475 – 865 |
+
+📄 [**Route 4 — volledig deelnemersdocument**](route-4-balfagon-basiskamp/ROUTE-4-Balfagon-Basiskamp.md)
+
+---
+
+### De drie oorspronkelijke alternatieven
 
 | | **Route 1 — Kasteel & Kloven** | **Route 2 — Maestrazgo & Matarraña** | **Route 3 — Peñíscola & Maestrazgo** |
 |---|---|---|---|
@@ -43,9 +62,12 @@ cabrio-eclipse-2026/
 ├── route-2-maestrazgo-matarrana/
 │   ├── ROUTE-2-Maestrazgo-Matarrana.md                ← deelnemersdocument (versturen)
 │   └── Cabrio_Eclipse_2026_Route2_Maestrazgo-Matarrana.gpx
-└── route-3-peniscola-maestrazgo/
-    ├── ROUTE-3-Peniscola-Maestrazgo.md                ← deelnemersdocument (versturen)
-    └── Cabrio_Eclipse_2026_Route3_Peniscola-Maestrazgo.gpx
+├── route-3-peniscola-maestrazgo/
+│   ├── ROUTE-3-Peniscola-Maestrazgo.md                ← deelnemersdocument (versturen)
+│   └── Cabrio_Eclipse_2026_Route3_Peniscola-Maestrazgo.gpx
+└── route-4-balfagon-basiskamp/                        ← ✅ GEBOEKT
+    ├── ROUTE-4-Balfagon-Basiskamp.md                  ← deelnemersdocument (versturen)
+    └── Cabrio_Eclipse_2026_Route4_Balfagon-Basiskamp.gpx
 ```
 
 De `.md`-documenten zijn bedoeld om **direct naar de andere deelnemers te sturen** — compleet met foto-links, hotels, restaurants en bijzondere locaties.
@@ -65,7 +87,8 @@ De GPX werkt ook in **Komoot, OsmAnd, BaseCamp, Apple Kaarten en Google My Maps*
 
 ## ⚠️ Belangrijk om te weten
 
-- **Boek de hotels NU.** De hele totaliteitszone is dé bestemming van het decennium; eclips-nacht (12 aug) is mogelijk al grotendeels volgeboekt. In elk routedocument staan alternatieven.
+- **Hotel is geboekt** voor de definitieve Route 4 (Balfagón, 2 nachten). Voor routes 1–3 geldt: de hele totaliteitszone is dé bestemming van het decennium; eclips-nacht (12 aug) is mogelijk al grotendeels volgeboekt. In elk routedocument staan alternatieven.
+- **Reserveer de lunches/bodega** (Route 4: Daluan, La Grancha-bodega, Il Ponticello) vooraf en bevestig de openingstijden — inland is het aanbod beperkt en niet alles is elke dag open.
 - **Prijzen zijn indicatief** (hoogseizoen aug 2026) en **niet realtime gecontroleerd** — controleer altijd bij het boeken.
 - **Eclipskijkpunt:** wees uiterlijk **19:00–19:30u** op je plek en zorg voor **vrij zicht naar het westen** (de zon staat heel laag). Neem **gecertificeerde eclipsbrillen** mee (ISO 12312-2).
 - **Rijtijden** gelden voor binnenwegen zonder snelweg en zijn **exclusief stops**.

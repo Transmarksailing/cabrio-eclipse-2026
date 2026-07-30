@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cabrio Eclipse Tour 2026 - Route 4" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Cabrio Eclipse 2026 - Route 4 - Maestrazgo Basiskamp (Hotel Balfagon, Cantavieja)</name>
+    <desc>2 nachten vast in Hotel and Spa Balfagon (Cantavieja). Dag 1 kust naar Maestrazgo via Morella; dag 2 wijn-bodega Matarrana + ECLIPS op Mirador de la Tarayuela (5,5 km van hotel); dag 3 Maestrazgo-passen naar de kust via Mora de Rubielos. Binnenwegen, geen snelwegen. Zumo XT: zet 'vermijd snelwegen/tolwegen'.</desc>
+  </metadata>
+
+  <!-- ============ WAYPOINTS ============ -->
+  <wpt lat="38.7340" lon="0.1690"><name>START/EIND Benitatchell</name><sym>Residence</sym><desc>Vertrek 11 aug, terugkomst 13 aug</desc></wpt>
+  <wpt lat="40.5230" lon="-0.4030"><name>Hotel &amp; Spa Balfagon (NACHT 1+2)</name><sym>Lodging</sym><desc>Av. Maestrazgo 20, Cantavieja. Basiskamp: 2 nachten (11+12 aug). Spa + restaurant + wijnkelder.</desc></wpt>
+  <wpt lat="40.49339" lon="-0.42336"><name>ECLIPS - Mirador de la Tarayuela</name><sym>Summit</sym><desc>12 aug ca. 20:31u, totaliteit tot ca. 1m40s. 1.664 m hoogte, 5,5 km van hotel (weg Cantavieja-Mosqueruela). Astronomisch kijkpunt. Zorg voor vrij zicht naar het WESTEN (zon zeer laag).</desc></wpt>
+  <wpt lat="40.6178" lon="-0.0958"><name>Morella - lunch dag 1 (Daluan)</name><sym>Restaurant</sym><desc>Ommuurde bergstad + kasteel. Lunch: creatief/modern (Daluan) of Vinatea. Reserveer + check openingstijden.</desc></wpt>
+  <wpt lat="40.5900" lon="-0.3550"><name>Mirambel</name><sym>Scenic Area</sym><desc>Een van de mooiste ommuurde dorpen van Spanje. Korte stop dag 1.</desc></wpt>
+  <wpt lat="40.9020" lon="-0.0730"><name>La Fresneda - wijn-bodega lunch (La Grancha)</name><sym>Restaurant</sym><desc>12 aug lunch. Creatieve keuken + bezoek wijngaard/bodega met proeverij. Matarrana.</desc></wpt>
+  <wpt lat="40.9400" lon="0.1000"><name>Bodega-alt. Venta d'Aubert / Mas de Torubio (Cretas)</name><sym>Restaurant</sym><desc>Alternatief wijnbezoek + cata (biologisch). Cretas.</desc></wpt>
+  <wpt lat="40.2510" lon="-0.7530"><name>Mora de Rubielos - lunch dag 3 (Il Ponticello)</name><sym>Restaurant</sym><desc>13 aug lunch. Italiaanse keuken (Av. Valencia 1). Check openingstijden do (in aug meestal open).</desc></wpt>
+  <wpt lat="40.1920" lon="-0.6510"><name>Rubielos de Mora</name><sym>Scenic Area</sym><desc>Sfeervol middeleeuws stadje, fotostop dag 3.</desc></wpt>
+
+  <!-- ============ DAG 1 (11 aug): Benitatchell -> Morella -> Cantavieja (Balfagon) ============ -->
+  <rte>
+    <name>Dag 1 (11 aug) Benitatchell - Sant Mateu - Morella - Mirambel - Cantavieja</name>
+    <desc>Binnenwegen ca. 3,5 u excl. stops. Lunch Morella. Zet Zumo op vermijd snelwegen/tol.</desc>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+    <rtept lat="38.9691" lon="-0.1817"><name>Gandia</name></rtept>
+    <rtept lat="40.0577" lon="0.0650"><name>Benicassim (kustweg)</name></rtept>
+    <rtept lat="40.4592" lon="0.1728"><name>Sant Mateu</name></rtept>
+    <rtept lat="40.6178" lon="-0.0958"><name>Morella (lunch)</name></rtept>
+    <rtept lat="40.5900" lon="-0.3550"><name>Mirambel</name></rtept>
+    <rtept lat="40.5230" lon="-0.4030"><name>Hotel Balfagon (Cantavieja)</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 2 (12 aug): Cantavieja -> Matarrana (bodega) -> ECLIPS Tarayuela -> Balfagon ============ -->
+  <rte>
+    <name>Dag 2 (12 aug) Cantavieja - La Fresneda (bodega) - ECLIPS Tarayuela - Balfagon</name>
+    <desc>Wijn-bodega lunch Matarrana ca. 1,15 u heen. Wees uiterlijk 16:30 terug richting Cantavieja; 18:30-19:00 op het kijkpunt.</desc>
+    <rtept lat="40.5230" lon="-0.4030"><name>Hotel Balfagon (Cantavieja)</name></rtept>
+    <rtept lat="40.5900" lon="-0.3550"><name>Mirambel</name></rtept>
+    <rtept lat="40.8300" lon="-0.1720"><name>Aguaviva (binnenweg)</name></rtept>
+    <rtept lat="40.9020" lon="-0.0730"><name>La Fresneda - La Grancha (bodega lunch)</name></rtept>
+    <rtept lat="40.8300" lon="-0.1720"><name>Aguaviva (terug)</name></rtept>
+    <rtept lat="40.5900" lon="-0.3550"><name>Mirambel</name></rtept>
+    <rtept lat="40.5230" lon="-0.4030"><name>Cantavieja (opfrissen)</name></rtept>
+    <rtept lat="40.49339" lon="-0.42336"><name>ECLIPS Mirador de la Tarayuela</name></rtept>
+    <rtept lat="40.5230" lon="-0.4030"><name>Terug Hotel Balfagon</name></rtept>
+  </rte>
+
+  <!-- ============ DAG 3 (13 aug): Cantavieja -> Mora de Rubielos -> kust -> Benitatchell ============ -->
+  <rte>
+    <name>Dag 3 (13 aug) Cantavieja - Mosqueruela - Mora de Rubielos - kust - Benitatchell</name>
+    <desc>Ruige Maestrazgo-passen ca. 4 u binnenwegen. Lunch Mora de Rubielos (Italiaans).</desc>
+    <rtept lat="40.5230" lon="-0.4030"><name>Cantavieja</name></rtept>
+    <rtept lat="40.3620" lon="-0.4530"><name>Mosqueruela (bergpas)</name></rtept>
+    <rtept lat="40.3500" lon="-0.5800"><name>Linares de Mora</name></rtept>
+    <rtept lat="40.2510" lon="-0.7530"><name>Mora de Rubielos (lunch)</name></rtept>
+    <rtept lat="40.1920" lon="-0.6510"><name>Rubielos de Mora</name></rtept>
+    <rtept lat="39.9200" lon="-0.5900"><name>Viver (binnenweg)</name></rtept>
+    <rtept lat="39.8500" lon="-0.4900"><name>Segorbe</name></rtept>
+    <rtept lat="39.6795" lon="-0.2779"><name>Sagunto</name></rtept>
+    <rtept lat="38.9691" lon="-0.1817"><name>Gandia (kustweg)</name></rtept>
+    <rtept lat="38.7340" lon="0.1690"><name>Benitatchell</name></rtept>
+  </rte>
+</gpx>
